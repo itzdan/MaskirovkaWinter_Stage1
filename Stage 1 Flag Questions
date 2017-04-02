@@ -1,0 +1,155 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Flag 1 
+
+Toasty Haven
+
+Czech Republic
+
+What is the malicious process id?
+
+6040
+
+90 points
+
+Forensics
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 2 
+
+Game Over Man
+What is the MD5hash string of malicious process?
+
+170 points 
+
+USA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Flag 3 
+Fair is foul, and foul is fair; Hover through the fog and filthy air.
+
+Specify the Command Control address IP:Port used by the malicious process 
+
+
+140 points 
+Uzbekistan
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 4 
+
+
+Persistence is Futile
+
+identify string used to persist upon the compromised workstation?
+
+140 points
+
+Romania
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 5
+
+Leave no Man Behind
+
+Name the account that was left behind
+
+200 points
+
+Afghanistan
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 6
+
+Funky cold medina
+Who did the SVR intelligence agent meet at the station? Provide name of suspect
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 7 
+
+Show me the money
+
+What was the last transactionID for payment made to SVR agent?
+
+
+250 points
+
+Finland
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 8 
+
+2 Legit 2 Quit
+
+Using the network capture, what was the key "ie: string" used to authenticate and setup the connection?
+
+
+China 
+
+60 points
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 9 
+
+Using the network intercept of Grozny substation. What method does the C2 manage authentication of its victims?
+
+
+60 points
+
+Kyrgstan 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 10 
+
+Whodat
+
+What is the Workstation name and Account of the infected endpoint found on the network? 
+
+
+
+60 points
+
+Croatia
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 11
+
+Flys by the Seat of his Pants
+
+What is the Wireshark PacketID for shell initialization between client/server?
+
+
+Russia 
+
+150 points
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 12 
+
+Dont you know im Loco
+
+Using the open threat log and packet capture, what is the fqdn of the grozny IOC?
+
+
+50 points
+
+Serbia
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Flag 13
+
+King of the Hill 
+
+Who was the SVR intelligence agent handler?
+
+
+250 points
+
+South Africa
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
